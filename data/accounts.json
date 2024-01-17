@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Bebras",
+        "surname": "Bebrauskas",
+        "idCode": "35407213567",
+        "IBAN": "LT680895879983507850",
+        "accountMoney": 2371
+    },
+    {
+        "name": "Varliokas",
+        "surname": "Varliauskas",
+        "idCode": "39103017496",
+        "IBAN": "LT201160147465739367",
+        "accountMoney": 1144
+    },
+    {
+        "name": "Zyle",
+        "surname": "Zyliene",
+        "idCode": "47909065217",
+        "IBAN": "LT595276754333844289",
+        "accountMoney": 9637
+    },
+    {
+        "name": "Udra",
+        "surname": "Udriene",
+        "idCode": "48312151031",
+        "IBAN": "LT958990823851731321",
+        "accountMoney": 963
+    },
+    {
+        "name": "Me\u0161ka",
+        "surname": "Me\u0161kinija",
+        "idCode": "60211270001",
+        "IBAN": "LT348804602792063805",
+        "accountMoney": 397
+    }
+]
